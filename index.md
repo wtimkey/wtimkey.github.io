@@ -1,9 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
 ---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wtimkey/wtimkey.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
