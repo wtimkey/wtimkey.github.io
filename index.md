@@ -11,9 +11,9 @@ My research interestes lie broadly within the field of computational psycholingu
 
 **1) Inductive Biases:** What can statistical models of language, such as deep neural nets, teach us about what is learnable from primary lingusitic data with a domain-general learner.
 
-**2) Statistical Models as Theories of Human Langauge Processing** There has been a considerable amount of research in recent years which seeks to evaluate the lingusitic knowledge encoded in state-of-the-art language models like BERT and GPT-2. These models may not only provide insights into what is learnable from finite lingusitic data, but also uncover potential theories of human language processing.
+**2) Statistical Models as Theories of Human Langauge Processing** There has been a considerable amount of research in recent years which seeks to evaluate the lingusitic knowledge encoded in state-of-the-art language models like BERT and GPT-2. These models may not only provide insights into what is learnable from finite lingusitic data, but also uncover potential theories of real-time language processing in humans.
 
-### News
+## News
 
 - 9/23/2021 - Our [EMNLP paper]() was selected for an oral presentation!
 - 8/26/2021 - Our [paper]() on similarity measures in Transformer language models was accepted to EMNLP!
@@ -22,14 +22,14 @@ My research interestes lie broadly within the field of computational psycholingu
 - 6/2020 -    Joined the C.Psyd group at Cornell
 - 5/2020 -    Graduated (with distinction!) from Cornell Unviersity with a BA in Linguistics
 
-### Publications
+## Publications
 William Timkey and Marten van Schijndel. "All Bark and No Bite: Rogue Dimensions in Transformer Language Models Obscure Representational Quality" In <i>Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>. 2021. (9% oral)
 <div class='dllinks'>&lfloor; <a href="/assets/pdf/timkey_vanschijndel-2021-emnlp.pdf">pdf</a> &rfloor;</div><br>
 
 Matt Wilber, William Timkey, and Marten van Schijndel. "To Point or Not to Point: Understanding How Abstractive Summarizers Paraphrase Text" In <i>Proceedings of the 2021 Findings of the ACL</i>. 2021.
 <div class='dllinks'>&lfloor; <a href="/assets/pdf/wilber_etal-2021-findings_acl.pdf">pdf</a> &rfloor;</div><br>
   
-### Teaching
+## Teaching
 Fall 2021: STAT 104 - Introduction to Quantitative Methods for Economics @ Harvard University (Teaching Fellow)
 
 Summer 2021: STAT 100 - Introduction to Quantitative Methods @ Harvard University (Teaching Fellow)
