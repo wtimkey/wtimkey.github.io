@@ -30,7 +30,7 @@ twitter_username: wtimkey8
 github_username:  wtimkey
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
