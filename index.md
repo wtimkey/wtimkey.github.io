@@ -5,8 +5,6 @@ title: Home
 
 Hello! I am a post-baccalaureate researcher in the [Computational Psycholingusitics Reserach Discussions group (C.Psyd)](https://c-psyd.github.io/) housed within the [Department of Lingusitics](https://linguistics.cornell.edu/) at [Cornell University](https://linguistics.cornelll.edu). I have the pleasure of being advised by [Marten van Schijndel](https://vansky.github.io/).
 
-I also have a passion for teaching. Currently, I am a Teaching Fellow in the [Department of Statisics](https://statistics.fas.harvard.edu/) at Harvard University. I believe a solid understanding of statistics is fundamental to good science in any field.
-
 My research interestes lie broadly within the field of computational psycholingusitics, and seek to address two main questions:
 
 **1) Inductive Biases:** What can statistical models of language, such as deep neural nets, teach us about what is learnable from primary lingusitic data with a domain-general learner.
@@ -28,6 +26,10 @@ William Timkey and Marten van Schijndel. "[All Bark and No Bite: Rogue Dimension
 Matt Wilber, William Timkey, and Marten van Schijndel. "[To Point or Not to Point: Understanding How Abstractive Summarizers Paraphrase Text](https://aclanthology.org/2021.findings-acl.298/)" In <i>Proceedings of the 2021 Findings of the ACL</i>. 2021.
   
 ## Teaching
+
+I also have a passion for teaching! Currently, I am a Teaching Fellow in the [Department of Statisics](https://statistics.fas.harvard.edu/) at Harvard University. I believe a solid understanding of statistics is fundamental to good science in any field.
+
+
 Fall 2021:    STAT 104 - Introduction to Quantitative Methods for Economics @ Harvard University (Teaching Fellow)
 
 Summer 2021:  STAT 100 - Introduction to Quantitative Methods @ Harvard University (Teaching Fellow)
