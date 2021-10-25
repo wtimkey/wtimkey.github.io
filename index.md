@@ -7,7 +7,7 @@ Hello! I am a post-baccalaureate researcher in the [Computational Psycholingusit
 
 My research interestes lie broadly within the field of computational psycholingusitics, and seek to address two main questions:
 
-**1) Inductive Biases:** What can statistical models of language, such as deep neural nets, teach us about what is learnable from primary lingusitic data with a domain-general learner.
+**1) Inductive Biases:** What can statistical models of language, such as deep neural nets, teach us about what is learnable from primary lingusitic data with a general-purpose learner.
 
 **2) Statistical Models as Theories of Human Langauge Processing:** There has been a considerable amount of research in recent years which seeks to evaluate the lingusitic knowledge encoded in state-of-the-art language models like BERT and GPT-2. These models may not only provide insights into what is learnable from finite lingusitic data, but also uncover potential theories of real-time language processing in humans.
 
