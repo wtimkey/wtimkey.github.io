@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Hello! I am a post-baccalaureate researcher in the [Computational Psycholingusitics Reserach Discussions group (C.Psyd)](https://c-psyd.github.io/) housed within the [Department of Lingusitics](https://linguistics.cornell.edu/) at [Cornell University](https://linguistics.cornelll.edu). I have the pleasure of being advised by [Marten van Schijndel](https://vansky.github.io/).
+Hello! I am a post-baccalaureate researcher in the [Computational Psycholingusitics Reserach Discussions group (C.Psyd)](https://c-psyd.github.io/) housed within the [Department of Lingusitics](https://linguistics.cornell.edu/) at [Cornell University](https://linguistics.cornelll.edu). I have the pleasure of being advised by [Marten van Schijndel](https://vansky.github.io/). I graduated with a degree in Linguistics from Cornell in May 2020, and I'm currently applying to PhD programs in Lingustics and Cognitive Science.
 
 My research interestes lie broadly within the field of computational psycholingusitics, and seek to address two main questions:
 
