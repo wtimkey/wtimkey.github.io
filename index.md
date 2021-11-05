@@ -15,8 +15,8 @@ My research interestes lie broadly within the field of computational psycholingu
 
 ## News
 
-- 9/23/2021 - Our [EMNLP paper](https://arxiv.org/abs/2109.04404) was selected for an oral presentation!
-- 8/26/2021 - Our [paper](https://arxiv.org/abs/2109.04404) on similarity measures in Transformer language models was accepted to EMNLP!
+- 9/23/2021 - Our [EMNLP paper](https://aclanthology.org/2021.emnlp-main.372/) was selected for an oral presentation!
+- 8/26/2021 - Our [paper](https://aclanthology.org/2021.emnlp-main.372/) on similarity measures in Transformer language models was accepted to EMNLP!
 - 8/7/2021 -  Presented our [ACL Findings](https://aclanthology.org/2021.findings-acl.298/) paper at ACL 2021.
 - 5/6/2021 -  Our paper exploring the abstractive capabilities of neural summarization models was accepted to Findings of ACL 2021
 - 6/2020 -    Joined the C.Psyd group at Cornell
@@ -25,7 +25,7 @@ My research interestes lie broadly within the field of computational psycholingu
 ---
 
 ## Publications
-William Timkey and Marten van Schijndel. "[All Bark and No Bite: Rogue Dimensions in Transformer Language Models Obscure Representational Quality](https://arxiv.org/abs/2109.04404)" In <i>Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>. 2021. (9% oral)
+William Timkey and Marten van Schijndel. "[All Bark and No Bite: Rogue Dimensions in Transformer Language Models Obscure Representational Quality](https://aclanthology.org/2021.emnlp-main.372/)" In <i>Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>. 2021.
 
 Matt Wilber, William Timkey, and Marten van Schijndel. "[To Point or Not to Point: Understanding How Abstractive Summarizers Paraphrase Text](https://aclanthology.org/2021.findings-acl.298/)" In <i>Proceedings of the 2021 Findings of the ACL</i>. 2021.
 
