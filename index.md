@@ -9,7 +9,7 @@ I completed a BA in Linguistics at Cornell in May 2020, and then spent a year as
 
 My research interests lie broadly within the field of computational psycholinguistics, specifically:
 
-**1) Inductive Biases:** What can statistical models of language, such as deep neural nets, teach us about what is learnable from primary lingusitic data with a general-purpose learner.
+**1) Inductive Biases:** What can statistical models of language, such as deep neural nets, teach us about what is learnable from primary linguisitic data with a general-purpose learner.
 
 **2) Statistical Models as Theories of Human Language Processing:** There has been a considerable amount of research in recent years which seeks to evaluate the lingusitic knowledge encoded in state-of-the-art language models like BERT and GPT-2. These models may not only provide insights into what is learnable from finite linguisitic data, but also uncover potential theories of real-time language processing in humans.
 
