@@ -4,7 +4,7 @@ title: Home
 ---
 ## About
 
-Hello! I am a first-year PhD student in the [Department of Linguistics](https://linguistics.as.nyu.edu/) at [New York University](https://nyu.edu/). 
+Hello! I am a first-year PhD student in the [Department of Linguistics](https://linguistics.as.nyu.edu/) at [New York University](https://nyu.edu/) advised by [Tal Linzen](https://tallinzen.net/).
 
 I completed a BA in Linguistics at Cornell in May 2020, and then spent a year as a Post-Baccalaureate researcher at Cornell working with [Marten van Schijndel](https://vansky.github.io/).
 
