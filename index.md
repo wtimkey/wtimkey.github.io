@@ -6,7 +6,7 @@ title: Home
 
 Hello! I am a first-year PhD student in the [Department of Linguistics](https://linguistics.as.nyu.edu/) at [New York University](https://nyu.edu/) advised by [Tal Linzen](https://tallinzen.net/).
 
-I completed a BA in Linguistics at Cornell in May 2020, and then spent a year as a Post-Baccalaureate researcher at Cornell working with [Marten van Schijndel](https://vansky.github.io/).
+I completed a BA in Linguistics at Cornell in May 2020, and then spent a year as a Post-Baccalaureate researcher at Cornell with [Marten van Schijndel](https://vansky.github.io/).
 
 My research interests lie broadly within the field of computational psycholinguistics. Specifically, I am interested in how advances in deep learning can inform theories of online sentence processing. Lately, I've been investigating how we can model humans' finite memory capacity in neural language models, with the long-term goal of integrating expectation-based and memory-based theories of online sentence processing.
 
