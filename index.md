@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+## About
 
 Hello! I am a first-year PhD student in the [Department of Linguistics](https://linguistics.as.nyu.edu/) at [New York University](https://nyu.edu/). 
 
