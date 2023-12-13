@@ -39,7 +39,9 @@
         {% if site.github %}
           <a href="https://github.com/wtimkey"><img src="{{site.github | relative_url}}" alt="github" style="width:15px;height:15px;"/></a>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        {% if site.email %}
+          <a href="mailto:wpt2011@nyu.edu"><img src="{{site.email | relative_url}}" alt="email" style="width:15px;height:15px;"/></a>
+        {% endif %}
       </header>
       <section>
 
