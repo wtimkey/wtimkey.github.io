@@ -27,6 +27,7 @@ url: "https://wtimkey.github.io" # the base hostname & protocol for your site, e
 twitter: assets/twitter-social-logotype-svgrepo-com.png
 github: assets/github-round-svgrepo-com.png
 linkedin: assets/linkedin-round-svgrepo-com.png
+cv: assets/cv.png
 logo: assets/me.png
 
 # Build settings
