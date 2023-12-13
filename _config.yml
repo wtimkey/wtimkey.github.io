@@ -24,9 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   PhD Student @ NYU Linguistics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wtimkey.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter: assets/twitter_icon.png
-github: assets/github_icon.png
-linkedin: assets/linkedin_icon.png
+twitter: assets/twitter-social-logotype-svgrepo-com.png
+github: assets/github-round-svgrepo-com.png
+linkedin: assets/linkedin-round-svgrepo-com.png
 logo: assets/me.png
 
 # Build settings
