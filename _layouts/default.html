@@ -35,6 +35,9 @@
         {% if site.email %}
           <a href="mailto:wpt2011@nyu.edu"><img src="{{site.email | relative_url}}" alt="email" style="width:25px;height:25px;"/></a>
         {% endif %}
+        {% if site.cv %}
+          <a href="/cv.pdf"><img src="{{site.cv | relative_url}}" alt="cv" style="width:25px;height:25px;"/></a>
+        {% endif %}
       </header>
       <section>
 
