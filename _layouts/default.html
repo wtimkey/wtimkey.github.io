@@ -14,20 +14,16 @@
   <body>
     <div class="wrapper">
       <header>
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" width=60% alt="Logo" />
+        {% endif %}
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         <!--<p>{{ site.description | default: site.github.project_tagline }}</p>-->
         <p>PhD Student<br>Department of Linguistics<br>New York University University</p>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" width=60% alt="Logo" />
-        {% endif %}
-
-        <br><br>
-
-        <p style="font-size:12px"><a href="mailto:wpt2011@nyu.edu">wpt2011@nyu.edu</p>
-        <br> 
+        <br><br><br> 
 
         {% if site.linkedin %}
         <br>
