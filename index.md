@@ -15,6 +15,7 @@ My research interests lie broadly within the field of computational psycholingui
 
 ## News
 
+- 3/8/2024 - I'll be at HSP 2024 this year presenting a poster on which measures of eye-tracking while reading are captured by LM surprisal. [Here](/assets/sap_hsp2024_preprint.pdf) is a draft of the abstract.
 - 12/6/2023 - Presented our new [EMNLP Findings paper](https://aclanthology.org/2023.findings-emnlp.582/) on modeling similarity-based interference effects with neural self-attention in Singapore at EMNLP 2023.
 - 9/1/2022 - Started my PhD at NYU! 
 - 9/23/2021 - Our [EMNLP paper](https://aclanthology.org/2021.emnlp-main.372/) was selected for an oral presentation!
