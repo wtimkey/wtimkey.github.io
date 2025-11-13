@@ -15,7 +15,9 @@ My research interests lie broadly within the field of computational psycholingui
 
 ## News
 
-- 3/8/2024 - I'll be at HSP 2024 this year presenting a poster on which measures of eye-tracking while reading are captured by LM surprisal. [Here](/assets/sap_hsp2024_preprint.pdf) is a draft of the abstract.
+- 11/13/2025 - Check out the [preprint](/assets/SAP_ET_Manuscript.pdf) of our new work revealing a dissociation between prediction and structural processing in eye movements during reading.
+- 3/2025 - Presented a [poster](/assets/beam_search_hsp2025_poster.pdf) at HSP 2025 about whether language model surprisal can better capture garden path effects when syntactic parallelism is limited. [Here](/assets/beam_search_hsp2025_preprint.pdf) is the abstract.
+- 3/8/2024 - Presented a [poster](sap_hsp2024_poster.pdf) at HSP 2024 about which measures of eye-tracking while reading are captured by LM surprisal. [Here](/assets/sap_hsp2024_preprint.pdf) is the abstract.
 - 12/6/2023 - Presented our new [EMNLP Findings paper](https://aclanthology.org/2023.findings-emnlp.582/) on modeling similarity-based interference effects with neural self-attention in Singapore at EMNLP 2023.
 - 9/1/2022 - Started my PhD at NYU! 
 - 9/23/2021 - Our [EMNLP paper](https://aclanthology.org/2021.emnlp-main.372/) was selected for an oral presentation!
@@ -55,4 +57,5 @@ Summer 2020:  STAT 100 - Introduction to Quantitative Methods @ Harvard Universi
 Spring 2020:  INFO 2950 - Introduction to Data Science @ Cornell University (Teaching Assistant)
 
 Fall 2017:    CSE 199 - First Year Seminar in Computer Science @ SUNY Buffalo (Teaching Assistant)
+
 
