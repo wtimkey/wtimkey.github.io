@@ -4,7 +4,7 @@ title: Home
 ---
 ## About
 
-Hello! I am a third-year PhD student in the [Department of Linguistics](https://linguistics.as.nyu.edu/) at [New York University](https://nyu.edu/) advised by [Tal Linzen](https://tallinzen.net/).
+Hello! I am a fourth-year PhD student in the [Department of Linguistics](https://linguistics.as.nyu.edu/) at [New York University](https://nyu.edu/) advised by [Tal Linzen](https://tallinzen.net/).
 
 I completed a BA in Linguistics at Cornell in May 2020, and then spent a year as a Post-Baccalaureate researcher at Cornell with [Marten van Schijndel](https://vansky.github.io/).
 
@@ -57,5 +57,6 @@ Summer 2020:  STAT 100 - Introduction to Quantitative Methods @ Harvard Universi
 Spring 2020:  INFO 2950 - Introduction to Data Science @ Cornell University (Teaching Assistant)
 
 Fall 2017:    CSE 199 - First Year Seminar in Computer Science @ SUNY Buffalo (Teaching Assistant)
+
 
 
