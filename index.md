@@ -16,6 +16,7 @@ My research interests lie broadly within the field of computational linguistics:
 ## News
 
 - 9/2026 - I recently gave a talk at AMLaP 2026 on a neural-network based model of working memory retrieval for syntactic dependency resolution. \[[abstract](/assets/amlap_26_abstract.pdf)\] \[[slides](/assets/amlap_26_slides.pdf)\]
+- 8/2026 - Our work revealing a dissociation between prediction and structural processing in eye movements during reading was accepted to [PNAS](https://www.pnas.org/doi/10.1073/pnas.2532230123)!
 - 11/13/2025 - Check out the [preprint](/assets/SAP_ET_Manuscript.pdf) of our new work revealing a dissociation between prediction and structural processing in eye movements during reading.
 - 3/2025 - Presented a [poster](/assets/beam_search_hsp2025_poster.pdf) at HSP 2025 about whether language model surprisal can better capture garden path effects when syntactic parallelism is limited. [Here](/assets/beam_search_hsp2025_preprint.pdf) is the abstract.
 - 3/8/2024 - Presented a [poster](sap_hsp2024_poster.pdf) at HSP 2024 about which measures of eye-tracking while reading are captured by LM surprisal. [Here](/assets/sap_hsp2024_preprint.pdf) is the abstract.
