@@ -4,9 +4,9 @@ title: Home
 ---
 ## About
 
-Hello! I am a fifth-year PhD student in the [Department of Linguistics](https://linguistics.as.nyu.edu/) at [New York University](https://nyu.edu/) advised by [Tal Linzen](https://tallinzen.net/).
+Hello! I am a fifth-year PhD student in the [Department of Linguistics](https://linguistics.as.nyu.edu/) at [New York University](https://nyu.edu/) advised by [Tal Linzen](https://tallinzen.net/). I am also a member of the [Computational Sentence Processing Lab](https://people.umass.edu/bwdillon/compsentproc.html) at UMass Amherst, where I work with [Brian Dillon](https://people.umass.edu/bwdillon/).
 
-I completed a BA in Linguistics at Cornell in May 2020, and then spent a year as a Post-Baccalaureate researcher at Cornell with [Marten van Schijndel](https://vansky.github.io/).
+I completed a BA in Linguistics at Cornell University in May 2020, and then continued at Cornell as a post-baccalaureate researcher with [Marten van Schijndel](https://vansky.github.io/) before beginning my PhD.
 
 My research interests lie broadly within the field of computational linguistics: I am interested in developing computational models of incremental language processing. More specifically, my goal is to understand the memory representations and processes that underlie our ability to rapidly infer the meaning of a sentence from noisy and ambiguous sensory input. Toward this this goal, my work focuses on developing psycholinguistically-motivated, data-driven, interpretable neural network models of sentence processing, and empirically testing the predictions of these models through human experiments. 
 
@@ -70,6 +70,3 @@ Summer 2020:  STAT 100 - Introduction to Quantitative Methods @ Harvard Universi
 Spring 2020:  INFO 2950 - Introduction to Data Science @ Cornell University (Teaching Assistant)
 
 Fall 2017:    CSE 199 - First Year Seminar in Computer Science @ SUNY Buffalo (Teaching Assistant)
-
-
-
