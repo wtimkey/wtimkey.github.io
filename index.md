@@ -8,13 +8,14 @@ Hello! I am a fifth-year PhD student in the [Department of Linguistics](https://
 
 I completed a BA in Linguistics at Cornell in May 2020, and then spent a year as a Post-Baccalaureate researcher at Cornell with [Marten van Schijndel](https://vansky.github.io/).
 
-My research interests lie broadly within the field of computational psycholinguistics. Specifically, I am interested in how advances in deep learning can inform theories of online sentence processing. Lately, I've been investigating how we can model humans' finite memory capacity in neural language models, with the long-term goal of integrating expectation-based and memory-based theories of online sentence processing.
+My research interests lie broadly within the field of computational linguistics: I am interested in developing computational models of incremental language processing. More specifically, my goal is to understand the memory representations and processes that underlie our ability to rapidly infer the meaning of a sentence from noisy and ambiguous sensory input. Toward this this goal, my work focuses on developing psycholinguistically-motivated, data-driven, interpretable neural network models of sentence processing, and empirically testing the predictions of these models through human experiments. 
 
 
 ---
 
 ## News
 
+- 9/2026 - I recently gave a talk at AMLaP 2026 on a neural-network based model of working memory retrieval for syntactic dependency resolution. \[[abstract](/assets/amlap_26_abstract.pdf)\] \[[slides](/assets/amlap_26_slides.pdf)\]
 - 11/13/2025 - Check out the [preprint](/assets/SAP_ET_Manuscript.pdf) of our new work revealing a dissociation between prediction and structural processing in eye movements during reading.
 - 3/2025 - Presented a [poster](/assets/beam_search_hsp2025_poster.pdf) at HSP 2025 about whether language model surprisal can better capture garden path effects when syntactic parallelism is limited. [Here](/assets/beam_search_hsp2025_preprint.pdf) is the abstract.
 - 3/8/2024 - Presented a [poster](sap_hsp2024_poster.pdf) at HSP 2024 about which measures of eye-tracking while reading are captured by LM surprisal. [Here](/assets/sap_hsp2024_preprint.pdf) is the abstract.
@@ -35,7 +36,7 @@ William Timkey, Tal Linzen. [Do Syntax Heads Influence Model Behavior?](https://
 
 William Timkey, Brian Dillon, Tal Linzen. [Why are language models less surprised than humans? Testing the Parse Multiplicity Mismatch Hypothesis](https://arxiv.org/abs/2605.15440) <i>arXiv preprint (in review)</i>. 2026.
 
-William Timkey, Kuan-Jung Huang, Byung-Doh Oh, Grusha Prasad, Suhas Arehalli, Tal Linzen, Brian Dillon. [Eye movements reveal a dissociation between prediction and structural processing difficulty in language comprehension](https://www.pnas.org/doi/10.1073/pnas.2532230123) In <i> Proceedings of the National Academy of Sciences (PNAS)</i>. 2026.
+William Timkey, Kuan-Jung Huang, Byung-Doh Oh, Grusha Prasad, Suhas Arehalli, Tal Linzen, Brian Dillon. [Eye movements reveal a dissociation between prediction and structural processing difficulty in language comprehension](https://www.pnas.org/doi/10.1073/pnas.2532230123) In <i> Proceedings of the National Academy of Sciences (PNAS)</i>. 2026. \[[data+code](https://osf.io/b6rqh/)\]
 
 William Timkey, and Tal Linzen. [A Language Model with Limited Memory Capacity Captures Interference in Human Sentence Processing](https://aclanthology.org/2023.findings-emnlp.582/) In <i>Findings of the Association for Computational Linguistics: EMNLP</i>. 2023.
 
@@ -47,7 +48,11 @@ Matt Wilber, William Timkey, and Marten van Schijndel. [To Point or Not to Point
   
 ## Teaching
 
-I also have a passion for Teaching! Before coming to NYU, I was a Teaching Fellow in the [Department of Statisics](https://statistics.fas.harvard.edu/) at Harvard University.
+I also have a passion for teaching. Before coming to NYU, I was a Teaching Fellow in the [Department of Statisics](https://statistics.fas.harvard.edu/) at Harvard University.
+
+Spring 2026:  LING-UA 61 - Human Sentence Processing @ New York University (Teaching Assistant)
+
+Fall 2024:    LING-UA 27 - Language and Mind @ New York University (Teaching Assistant)
 
 Fall 2023:    LING-UA 27 - Language and Mind @ New York University (Teaching Assistant)
 
