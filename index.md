@@ -31,17 +31,17 @@ My research interests lie broadly within the field of computational psycholingui
 
 ## Publications
 
-William Timkey, Tal Linzen. "[Do Syntax Heads Influence Model Behavior?](https://arxiv.org/abs/2610.19231) <i>arXiv preprint (in review)</i>. 2026."
+William Timkey, Tal Linzen. [Do Syntax Heads Influence Model Behavior?](https://arxiv.org/abs/2610.19231) <i>arXiv preprint (in review)</i>. 2026."
 
-William Timkey, Brian Dillon, Tal Linzen. "[Why are language models less surprised than humans? Testing the Parse Multiplicity Mismatch Hypothesis](https://arxiv.org/abs/2605.15440) <i>arXiv preprint (in review)</i>. 2026."
+William Timkey, Brian Dillon, Tal Linzen. [Why are language models less surprised than humans? Testing the Parse Multiplicity Mismatch Hypothesis](https://arxiv.org/abs/2605.15440) <i>arXiv preprint (in review)</i>. 2026.
 
-William Timkey, Kuan-Jung Huang, Byung-Doh Oh, Grusha Prasad, Suhas Arehalli, Tal Linzen, Brian Dillon. "[Eye movements reveal a dissociation between prediction and structural processing difficulty in language comprehension](https://www.pnas.org/doi/10.1073/pnas.2532230123) In <i> Proceedings of the National Academy of Sciences (PNAS)</i>. 2026."
+William Timkey, Kuan-Jung Huang, Byung-Doh Oh, Grusha Prasad, Suhas Arehalli, Tal Linzen, Brian Dillon. [Eye movements reveal a dissociation between prediction and structural processing difficulty in language comprehension](https://www.pnas.org/doi/10.1073/pnas.2532230123) In <i> Proceedings of the National Academy of Sciences (PNAS)</i>. 2026.
 
-William Timkey, and Tal Linzen. "[A Language Model with Limited Memory Capacity Captures Interference in Human Sentence Processing](https://aclanthology.org/2023.findings-emnlp.582/)" In <i>Findings of the Association for Computational Linguistics: EMNLP</i>. 2023.
+William Timkey, and Tal Linzen. [A Language Model with Limited Memory Capacity Captures Interference in Human Sentence Processing](https://aclanthology.org/2023.findings-emnlp.582/) In <i>Findings of the Association for Computational Linguistics: EMNLP</i>. 2023.
 
-William Timkey and Marten van Schijndel. "[All Bark and No Bite: Rogue Dimensions in Transformer Language Models Obscure Representational Quality](https://aclanthology.org/2021.emnlp-main.372/)" In <i>Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>. 2021.
+William Timkey and Marten van Schijndel. [All Bark and No Bite: Rogue Dimensions in Transformer Language Models Obscure Representational Quality](https://aclanthology.org/2021.emnlp-main.372/) In <i>Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>. 2021.
 
-Matt Wilber, William Timkey, and Marten van Schijndel. "[To Point or Not to Point: Understanding How Abstractive Summarizers Paraphrase Text](https://aclanthology.org/2021.findings-acl.298/)" In <i>Proceedings of the 2021 Findings of the ACL</i>. 2021.
+Matt Wilber, William Timkey, and Marten van Schijndel. [To Point or Not to Point: Understanding How Abstractive Summarizers Paraphrase Text](https://aclanthology.org/2021.findings-acl.298/) In <i>Proceedings of the 2021 Findings of the ACL</i>. 2021.
 
 ---
   
