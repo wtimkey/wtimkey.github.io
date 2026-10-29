@@ -8,7 +8,7 @@ Hello! I am a fifth-year PhD student in the [Department of Linguistics](https://
 
 I completed a BA in Linguistics at Cornell University in May 2020, and then continued at Cornell as a post-baccalaureate researcher with [Marten van Schijndel](https://vansky.github.io/) before beginning my PhD.
 
-My research interests lie broadly within the field of computational psycholinguistics: I am interested in developing *computational* models of the *psychological* processes underlying *language* comprehension. More specifically, my goal is to understand the memory representations and processes that underlie our ability to rapidly infer the meaning of a sentence from noisy and ambiguous sensory input. Toward this this goal, my work focuses on developing psycholinguistically-motivated, data-driven, interpretable neural network models of sentence processing, and empirically testing the predictions of these models through human experiments. 
+My research interests lie broadly within the field of computational psycholinguistics: I am interested in developing **computational** models of the **psychological** processes underlying **language** comprehension. More specifically, my goal is to understand the memory representations and processes that underlie our ability to rapidly infer the meaning of a sentence from noisy and ambiguous sensory input. Toward this this goal, my work focuses on developing psycholinguistically-motivated, data-driven, interpretable neural network models of sentence processing, and empirically testing the predictions of these models through human experiments. 
 
 
 ---
